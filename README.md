@@ -6,7 +6,7 @@ A LaTeX template to create simple lab reports.
 
 ## 示例
 
-![sample.pdf](https://user-images.githubusercontent.com/20534082/77845023-fe840f00-71dd-11ea-9472-11a32ef19542.png)
+![sample.pdf](https://user-images.githubusercontent.com/20534082/77845396-393b7680-71e1-11ea-8b9b-62d19a10021f.png)
 
 完整的示例输出请见 [sample.pdf](https://github.com/NN708/SimpleLabReport/blob/master/sample.pdf)。
 
