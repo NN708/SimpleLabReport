@@ -32,7 +32,7 @@ A LaTeX template to create simple lab reports.
    git clone https://github.com/NN708/SimpleLabReport.git
    ```
 
-2. 编译 `sample.tex`；
+2. 使用 `xelatex` 编译 `sample.tex`；
 
    > 如果你使用 LaTeX Workshop，在 Visual Studio Code 中打开 `sample.tex`，按 `Ctrl` + `Alt` + `B`（macOS 请使用 `Command` + `Option` + `B`）即可编译。
 
