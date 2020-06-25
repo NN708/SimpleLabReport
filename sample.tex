@@ -8,6 +8,7 @@
 \usepackage{booktabs} % Professional table support
 \usepackage{pdflscape} % Landscape pages support in PDF
 \usepackage{hyperref} % Hypertext links support for cross-referencing
+\usepackage{float} %Improves the interface for defining floating objects such as figures and tables
 
 % Customize hyperref format (it's set to no special format here)
 \hypersetup{hidelinks}
@@ -70,7 +71,7 @@
   次日，NASA 副局长 Jim Morhard 回应称上述说法不实，基本物理定律每天都有效，并演示了这个实验，如图 \ref{JimMorhard} 所示。
 
   % Insert an image, with placement specifier htbp
-  \begin{figure}[htbp]
+  \begin{figure}[htbp] %if you want to fix the figure/table exactly after the text above, change the code to: \begin{figure}[H]
     \centering
     \includegraphics[width=0.5\textwidth]{JimMorhard}
     \caption{Jim Morhard 演示立扫帚实验}
