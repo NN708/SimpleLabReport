@@ -8,7 +8,7 @@ A LaTeX template to create simple lab reports.
 
 ![sample.pdf](https://user-images.githubusercontent.com/20534082/77845396-393b7680-71e1-11ea-8b9b-62d19a10021f.png)
 
-完整的示例输出请见 [sample.pdf](https://github.com/NN708/SimpleLabReport/blob/master/sample.pdf)。
+完整的示例输出请见 [sample.pdf](https://github.com/NN708/SimpleLabReport/releases/download/v1.0/sample.pdf)。
 
 ## 快速上手
 
@@ -26,7 +26,7 @@ A LaTeX template to create simple lab reports.
 
 ### 下载并编译
 
-1. 使用 [Git](https://git-scm.com) 克隆本仓库：
+1. 下载[最新版本](https://github.com/NN708/SimpleLabReport/releases/latest)的源代码，或者使用 [Git](https://git-scm.com) 克隆本仓库：
 
    ```
    git clone https://github.com/NN708/SimpleLabReport.git
